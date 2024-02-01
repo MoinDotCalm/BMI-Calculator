@@ -49,7 +49,7 @@ class _BMICalculatorState extends State<BMICalculator> {
             TextField(
               decoration: const InputDecoration(
                 border: OutlineInputBorder(),
-                labelText: 'Enter Height in cm',
+                labelText: 'Enter Height in cm ',
               ),
               controller: heightController,
             ),
